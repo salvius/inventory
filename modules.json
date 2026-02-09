@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Adafruit 16-Channel 12-bit PWM/Servo Shield - I2C interface",
+        "source": "https://www.adafruit.com/product/1411",
+        "quantity": 1
+    },
+    {
+        "name": "Adafruit DRV8871 DC Motor Driver Breakout Board - 3.6A Max",
+        "source": "https://www.adafruit.com/product/3190",
+        "quantity": 2
+    },
+    {
+        "name": "INA219 High Side DC Current Sensor Breakout - 26V ±3.2A Max - STEMMA QT",
+        "source": "https://www.adafruit.com/product/904",
+        "quantity": 1
+    },
+    {
+        "name": "Adafruit Mono 2.5W Class D Audio Amplifier - PAM8302",
+        "source": "https://www.adafruit.com/product/2130",
+        "quantity": 1
+    },
+    {
+        "name": "Adafruit Electret Microphone Amplifier - MAX9814 with Auto Gain Control",
+        "description": "Electret Microphone Amplifier with AGC",
+        "quantity": 1
+    },
+    {
+        "name": "Arduino Nano V3",
+        "description": "Microcontroller Board",
+        "quantity": 1
+    }
+]

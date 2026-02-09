@@ -1,0 +1,14 @@
+[
+    {
+        "partNumber": "1N4148",
+        "type": "Signal Diode",
+        "quantity": 20,
+        "description": "Silicon Diode"
+    },
+    {
+        "partNumber": "1N4004",
+        "type": "Rectifier",
+        "quantity": 20,
+        "description": "Power Diode"
+    }
+]

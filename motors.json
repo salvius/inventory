@@ -1,0 +1,10 @@
+[
+    {
+        "partNumber": "FR801-001",
+        "name": "FIRST CIM Motor",
+        "type": "DC Motor",
+        "quantity": 2,
+        "description": "Chiaphua/Atwood CIM Motor - 5310 RPM free speed, 12V",
+        "source": "https://blog.salvius.org/2012/02/first-cim-motors.html"
+    }
+]

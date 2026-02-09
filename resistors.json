@@ -1,0 +1,140 @@
+[
+    {
+        "partNumber": "1 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "2.2 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "3.3 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "4.7 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "10 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "22 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "47 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "68 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "100 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "150 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "220 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "330 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "470 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "680 Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "1k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "1.5k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "2.2k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "3.3k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "4.7k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "6.8k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "10k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "100k Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    },
+    {
+        "partNumber": "1M Ohm",
+        "wattage": "0.5W",
+        "quantity": 20,
+        "description": "Fixed Resistor"
+    }
+]

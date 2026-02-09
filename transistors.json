@@ -1,0 +1,62 @@
+[
+    {
+        "partNumber": "2N2222",
+        "type": "NPN",
+        "pinout": "EBC",
+        "description": "General Purpose Transistor"
+    },
+    {
+        "partNumber": "2N2907",
+        "type": "PNP",
+        "pinout": "EBC",
+        "description": "General Purpose Transistor"
+    },
+    {
+        "partNumber": "2N3904",
+        "type": "NPN",
+        "pinout": "EBC",
+        "description": "General Purpose Transistor"
+    },
+    {
+        "partNumber": "2N3906",
+        "type": "PNP",
+        "pinout": "EBC",
+        "description": "General Purpose Transistor"
+    },
+    {
+        "partNumber": "BC547",
+        "type": "NPN",
+        "pinout": "CBE",
+        "description": "General Purpose Transistor"
+    },
+    {
+        "partNumber": "BC557",
+        "type": "PNP",
+        "pinout": "CBE",
+        "description": "General Purpose Transistor"
+    },
+    {
+        "partNumber": "S8050",
+        "type": "NPN",
+        "pinout": "EBC",
+        "description": "High Current Transistor"
+    },
+    {
+        "partNumber": "C1815",
+        "type": "NPN",
+        "pinout": "ECB",
+        "description": "General Purpose Transistor"
+    },
+    {
+        "partNumber": "5LN01SP",
+        "type": "N-Channel MOSFET",
+        "quantity": 10,
+        "description": "N-Channel MOSFET"
+    },
+    {
+        "partNumber": "5LP01SP",
+        "type": "P-Channel MOSFET",
+        "quantity": 10,
+        "description": "P-Channel MOSFET"
+    }
+]

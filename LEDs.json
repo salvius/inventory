@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Miscellaneous LEDs",
+        "description": "Assorted colored LEDs"
+    },
+    {
+        "name": "Infrared LED",
+        "description": "Infrared LEDs for remote controls and sensors"
+    },
+    {
+        "name": "Ultraviolet LED",
+        "description": "Ultraviolet LEDs"
+    }
+]

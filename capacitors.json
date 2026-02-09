@@ -1,0 +1,52 @@
+[
+    {
+        "partNumber": "10pF",
+        "quantity": 10,
+        "description": "Ceramic Capacitor"
+    },
+    {
+        "partNumber": "22pF",
+        "quantity": 10,
+        "description": "Ceramic Capacitor"
+    },
+    {
+        "partNumber": "100pF",
+        "quantity": 10,
+        "description": "Ceramic Capacitor"
+    },
+    {
+        "partNumber": "1nF",
+        "quantity": 10,
+        "description": "Ceramic Capacitor"
+    },
+    {
+        "partNumber": "10nF",
+        "quantity": 10,
+        "description": "Ceramic Capacitor"
+    },
+    {
+        "partNumber": "100nF",
+        "quantity": 25,
+        "description": "Ceramic Capacitor"
+    },
+    {
+        "partNumber": "1µF",
+        "quantity": 10,
+        "description": "Electrolytic Capacitor"
+    },
+    {
+        "partNumber": "10µF",
+        "quantity": 10,
+        "description": "Electrolytic Capacitor"
+    },
+    {
+        "partNumber": "100µF",
+        "quantity": 10,
+        "description": "Electrolytic Capacitor"
+    },
+    {
+        "partNumber": "1000µF",
+        "quantity": 10,
+        "description": "Electrolytic Capacitor"
+    }
+]

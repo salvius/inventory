@@ -1,0 +1,69 @@
+[
+    {
+        "name": "MCP3008 - 8-Channel 10-Bit ADC With SPI Interface",
+        "type": "ADC",
+        "source": "https://www.adafruit.com/product/856"
+    },
+    {
+        "partNumber": "PC817",
+        "type": "Photocoupler",
+        "description": "General Purpose Photocoupler"
+    },
+    {
+        "partNumber": "NE555",
+        "type": "Timer",
+        "description": "Precision Timer/Oscillator"
+    },
+    {
+        "partNumber": "LM358",
+        "type": "Op-Amp",
+        "description": "Dual Operational Amplifier"
+    },
+    {
+        "partNumber": "LM386",
+        "type": "Audio Amp",
+        "description": "Low Voltage Audio Power Amplifier"
+    },
+    {
+        "partNumber": "ULN2803",
+        "type": "Darlington",
+        "description": "8-ch Darlington Transistor Array"
+    },
+    {
+        "partNumber": "PT2399",
+        "type": "Audio Processor",
+        "description": "Digital Delay Echo Processor"
+    },
+    {
+        "partNumber": "UC3842",
+        "type": "PWM Controller",
+        "description": "Current Mode PWM Controller"
+    },
+    {
+        "partNumber": "7660",
+        "type": "Voltage Conv",
+        "description": "Switched-Capacitor Voltage Converter"
+    },
+    {
+        "partNumber": "TL431A",
+        "type": "Voltage Reference",
+        "quantity": 5,
+        "description": "Voltage Reference"
+    },
+    {
+        "partNumber": "LM317LZ",
+        "type": "Voltage Regulator",
+        "quantity": 5,
+        "description": "Voltage Regulator"
+    },
+    {
+        "partNumber": "16-Bit ADC",
+        "type": "ADC",
+        "description": "16-Bit ADC with Amplifier"
+    },
+    {
+        "partNumber": "LM339",
+        "type": "Comparator",
+        "description": "Quad OP Comparator"
+    }
+]
