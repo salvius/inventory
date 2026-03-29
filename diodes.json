@@ -2,13 +2,115 @@
     {
         "partNumber": "1N4148",
         "type": "Signal Diode",
-        "quantity": 20,
-        "description": "Silicon Diode"
+        "quantity": 60,
+        "description": "Silicon Diode",
+        "rating": "0.2A",
+        "voltage": "100V"
     },
     {
         "partNumber": "1N4004",
         "type": "Rectifier",
-        "quantity": 20,
-        "description": "Power Diode"
+        "quantity": 50,
+        "description": "Power Diode",
+        "rating": "1A",
+        "voltage": "400V"
+    },
+    {
+        "partNumber": "BZX55C12V",
+        "type": "Zener",
+        "quantity": 10,
+        "rating": "0.5W",
+        "voltage": "12V"
+    },
+    {
+        "partNumber": "BZX55C5V1",
+        "type": "Zener",
+        "quantity": 10,
+        "rating": "0.5W",
+        "voltage": "5.1V"
+    },
+    {
+        "partNumber": "1N5822",
+        "type": "Schottky",
+        "quantity": 10,
+        "rating": "3A",
+        "voltage": "40V"
+    },
+    {
+        "partNumber": "1N5819",
+        "type": "Schottky",
+        "quantity": 10,
+        "rating": "1A",
+        "voltage": "40V"
+    },
+    {
+        "partNumber": "1N5817",
+        "type": "Schottky",
+        "quantity": 10,
+        "rating": "1A",
+        "voltage": "20V"
+    },
+    {
+        "partNumber": "UF4007",
+        "type": "Fast Recovery",
+        "quantity": 10,
+        "rating": "1A",
+        "voltage": "1000V"
+    },
+    {
+        "partNumber": "FR207",
+        "type": "Fast Recovery",
+        "quantity": 10,
+        "rating": "2A",
+        "voltage": "1000V"
+    },
+    {
+        "partNumber": "FR107",
+        "type": "Fast Recovery",
+        "quantity": 10,
+        "rating": "1A",
+        "voltage": "1000V"
+    },
+    {
+        "partNumber": "RL207",
+        "type": "Rectifier",
+        "quantity": 10,
+        "rating": "2A",
+        "voltage": "1000V"
+    },
+    {
+        "partNumber": "1N5408",
+        "type": "Rectifier",
+        "quantity": 10,
+        "rating": "3A",
+        "voltage": "1000V"
+    },
+    {
+        "partNumber": "1N5406",
+        "type": "Rectifier",
+        "quantity": 10,
+        "rating": "3A",
+        "voltage": "600V"
+    },
+    {
+        "partNumber": "1N5404",
+        "type": "Rectifier",
+        "quantity": 10,
+        "rating": "3A",
+        "voltage": "400V"
+    },
+    {
+        "partNumber": "1N4007",
+        "type": "Rectifier",
+        "quantity": 30,
+        "rating": "1A",
+        "voltage": "1000V"
+    },
+    {
+        "partNumber": "1N4001",
+        "type": "Rectifier",
+        "quantity": 30,
+        "rating": "1A",
+        "voltage": "50V"
     }
 ]
