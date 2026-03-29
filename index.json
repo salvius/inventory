@@ -1,0 +1,13 @@
+{
+    "categories": [
+        { "name": "Capacitors", "file": "capacitors.json" },
+        { "name": "Connectors", "file": "connectors.json" },
+        { "name": "Diodes", "file": "diodes.json" },
+        { "name": "LEDs", "file": "LEDs.json" },
+        { "name": "Microchips", "file": "microchips.json" },
+        { "name": "Modules", "file": "modules.json" },
+        { "name": "Motors", "file": "motors.json" },
+        { "name": "Resistors", "file": "resistors.json" },
+        { "name": "Transistors", "file": "transistors.json" }
+    ]
+}
